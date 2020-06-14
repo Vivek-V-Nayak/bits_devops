@@ -1,1 +1,1 @@
-Java
+git diff --exit-code VERSION
